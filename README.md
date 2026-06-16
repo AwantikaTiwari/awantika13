@@ -246,7 +246,7 @@ VS Code
 
 💼 LinkedIn: [[LinkedIn](https://www.linkedin.com/in/awantika-tiwari-aa6b97263/)]
 
-🐙 GitHub: [GitHub(https://github.com/AwantikaTiwari/awantika13/edit)]
+🐙 GitHub: [[GitHub](https://github.com/AwantikaTiwari/awantika13/edit)]
 
 ---
 
