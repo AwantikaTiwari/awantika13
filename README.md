@@ -1,4 +1,4 @@
-# Hi, I'm Awantika Tiwari 👋
+# Hi, I'm Awantika Tiwari 
 
 ### Software Engineer | Backend Developer | Full Stack Developer
 
